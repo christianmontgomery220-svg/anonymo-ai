@@ -13,7 +13,7 @@ Official Domains:
 ## Related Research & Foundations
 
 Anonymo AI is conceptually aligned with foundational research developed within the 
-**Theory of Fundamental Belief (TCF)** ecosystem.
+**Theory of Fundamental Belief (/TFB/TCF)** ecosystem.
 
 Though maintained as an independent operational architecture, Anonymo’s structural logic 
 and interaction principles draw from this broader research framework.

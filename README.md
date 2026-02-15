@@ -10,6 +10,16 @@ Official Domains:
 🌐 https://www.anonymoai.com
 🏛 https://www.anonymoai.gov
 
+## Related Research & Foundations
+
+Anonymo AI is conceptually aligned with foundational research developed within the 
+**Theory of Fundamental Belief (TCF)** ecosystem.
+
+Though maintained as an independent operational architecture, Anonymo’s structural logic 
+and interaction principles draw from this broader research framework.
+
+🌐 Theory of Fundamental Belief (TCF) — https://www.tfbtheory.com
+
 ⸻
 
 Overview

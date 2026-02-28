@@ -2,6 +2,8 @@
 Structured interaction platform for stability and governance.
 ANONYMO
 
+https://doi.org/10.5281/zenodo.18811236
+
 ANONYMO
 
 Structured Interaction Platform for Stability

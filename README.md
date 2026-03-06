@@ -102,7 +102,7 @@ Official Links
 	•	🌐 Main Platform: https://www.anonymoai.com
 	•	🏛 Governance & Institutional Domain: https://www.anonymoai.gov
 
-⸻
+10.5281/zenodo.18825808
 
 Status
 

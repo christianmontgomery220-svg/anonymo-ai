@@ -49,7 +49,7 @@ The framework introduces several key differentials that distinguish it from exis
 The complete technical documentation is available at:
 
 - **Documentation Site:** [anonymodocs.com](https://anonymodocs.com)
-- **Official Sites:** [tfbtheory.com](https://tfbtheory.com) | [anonymoai.com](https://anonymoai.com)
+- **Official Sites:** [tfbtheory.com](https://tfbtheory.com) | [www.anonymoai.org](https://www.anonymoai.org)
 
 ---
 
@@ -61,8 +61,34 @@ The complete technical documentation is available at:
 | Brasil - Biblioteca Nacional | Protocol: 0009817301925 (250 docs - Berne Convention) |
 | Brasil - INPI | RPC 730 (02 March 2026) |
 | Wikidata | [Q137856487](https://www.wikidata.org/wiki/Q137856487) |
-| Zenodo DOI | [10.5281/zenodo.18603385](https://doi.org/10.5281/zenodo.18603385) |
-| Zenodo DOI | [10.5281/zenodo.18231031](https://doi.org/10.5281/zenodo.18231031) |
+| Zenodo DOI — v1.0 frozen base release | [10.5281/zenodo.18603385](https://doi.org/10.5281/zenodo.18603385) |
+| Zenodo DOI — v1.0 frozen base release | [10.5281/zenodo.18231031](https://doi.org/10.5281/zenodo.18231031) |
+| Zenodo DOI — **v2.0 consolidated release** | [10.5281/zenodo.19155095](https://doi.org/10.5281/zenodo.19155095) |
+| Zenodo DOI — **v2.0 public verification package** | [10.5281/zenodo.19156335](https://doi.org/10.5281/zenodo.19156335) |
+
+---
+
+## Release History
+
+### v2.0 — Consolidated Release *(current)*
+**Anonymo AI Framework 24×24 — Consolidated Release v2.0**
+
+This is an expanded documentary and architectural consolidation of the same framework lineage. It does **not** replace or invalidate the frozen v1.0 base release — it builds upon it while preserving the original frozen framework record.
+
+- **Main DOI:** [10.5281/zenodo.19155095](https://doi.org/10.5281/zenodo.19155095)
+- **Verification DOI:** [10.5281/zenodo.19156335](https://doi.org/10.5281/zenodo.19156335)
+
+### v1.0 — Frozen Base Release *(preserved)*
+The original frozen technical base of the framework. Preserved in its original state.
+
+- **DOI:** [10.5281/zenodo.18603385](https://doi.org/10.5281/zenodo.18603385)
+- **DOI:** [10.5281/zenodo.18231031](https://doi.org/10.5281/zenodo.18231031)
+
+### Version Logic
+- **v1.0** = frozen base release
+- **v2.0** = expanded consolidated release
+
+The relationship between both versions is **cumulative, not substitutive**. Same framework lineage. Same conceptual foundation. Same stable core. Different level of consolidation.
 
 ---
 

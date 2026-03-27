@@ -1,3 +1,8 @@
+Part of the **TCF / TFB + Anonymo Ecosystem**  
+System hub: https://github.com/christianmontgomery220-svg/tcf-anonymo-ecosystem
+
+---
+
 # Anonymo AI — Framework 24x24 TCF/TFB
 
 > **This repository exists as proof of existence and research documentation. No authorization for use is granted. See [LICENSE](LICENSE) for details.**
